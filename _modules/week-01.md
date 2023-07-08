@@ -3,7 +3,7 @@ title: Introduction to Java
 ---
 
 Sep 28
-: [Java & Git](#)
+: [Python & Git](#)
   : [1.1](#)
 
 Sep 29
@@ -15,7 +15,7 @@ Sep 30
   : [1.2](#), [2.1](#)
 
 Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+: **Lab**{: .label .label-purple } [Converting a Tabular Dataset to a Temporal Graph Dataset](https://vid.puffyan.us/watch?v=AQU3akndun4)
 
 Oct 2
 : [Tracing, IntLists, & Recursion](#)
