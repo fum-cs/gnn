@@ -7,17 +7,17 @@ Sep 28
   : [1.1](#)
 
 Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+: **Section**{: .label .label-purple }[Intro to Python](#)
   : [Solution](#)
 
 Sep 30
-: [Variables & Objects](#)
+: [Deep Learning](#)
   : [1.2](#), [2.1](#)
 
 Oct 1
-: **Lab**{: .label .label-purple } [Converting a Tabular Dataset to a Temporal Graph Dataset](https://vid.puffyan.us/watch?v=AQU3akndun4)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
+: [CNNs](#)
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }
+
+Oct 2
+: **Lab**{: .label .label-purple } [Converting a Tabular Dataset to a Temporal Graph Dataset](https://vid.puffyan.us/watch?v=AQU3akndun4)
