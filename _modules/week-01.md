@@ -1,5 +1,5 @@
 ---
-title: Introduction to Java
+title: Introduction to Graph Neural Networks
 ---
 
 Sep 28
@@ -11,13 +11,13 @@ Sep 29
   : [Solution](#)
 
 Sep 30
-: [Deep Learning](#)
+: [Intro to Graphs and Networkx](#)
   : [1.2](#), [2.1](#)
 
 Oct 1
-: [CNNs](#)
+: [Intro to Pytorch](#)
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }
 
 Oct 2
-: **Lab**{: .label .label-purple } [Converting a Tabular Dataset to a Temporal Graph Dataset](https://vid.puffyan.us/watch?v=AQU3akndun4)
+: **Lab**{: .label .label-purple } [Resizing Arrays](#)

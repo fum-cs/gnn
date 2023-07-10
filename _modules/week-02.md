@@ -1,5 +1,5 @@
 ---
-title: Basic Data Structures
+title: Tensors
 ---
 
 Oct 5

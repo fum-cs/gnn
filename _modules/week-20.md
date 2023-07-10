@@ -15,7 +15,7 @@ Oct 7
   : [2.4](#), [2.5](#)
 
 Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+: **Lab**{: .label .label-purple } [Converting a Tabular Dataset to a Temporal Graph Dataset](https://vid.puffyan.us/watch?v=AQU3akndun4)
 
 Oct 9
 : [Runtime Analysis](#)
