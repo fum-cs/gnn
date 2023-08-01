@@ -1,21 +1,24 @@
 ---
-title: Tensors
+title: Resources
 ---
 
 Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+: [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-62acf5b143d0)
+  : [Medium](#)
 
 Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
-
-Oct 7
-: [Resizing Arrays](#)
+: [Graph Convolutional Networks (GCN)](https://ai.plainenglish.io/graph-convolutional-networks-gcn-baf337d5cb6b)
   : [2.4](#), [2.5](#)
 
+Oct 7
+: **Section**{: .label .label-purple }[Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
+  : [Distill](#)
+
 Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+: **Section**{: .label .label-purple }[A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+  : [Distill](#)
+
+<!-- : **Lab**{: .label .label-purple } [Resizing Arrays](#) -->
 
 Oct 9
 : [Runtime Analysis](#)
