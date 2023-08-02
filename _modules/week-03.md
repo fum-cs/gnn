@@ -1,23 +1,34 @@
 ---
-title: Temporal Graphs
+title: Lectures
 ---
 
-Oct 5
-: [PyTorch Geometric Temporal ](https://pytorch-geometric-temporal.readthedocs.io/en/latest/index.html)
-  : [3.1](#), [2.2](#), [2.3](#)
+1
+: [Intro to Graphs Neural Networkx](#)
+  : [Our previous workshop](https://mamintoosi.github.io/slides/topics/GNN/GNN-2022.html)
 
-Oct 6
-: **Section**{: .label .label-purple }[Installation](#)
-  : [Solution](#)
+2
+: [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-62acf5b143d0)
+  <!-- : [Medium](#) -->
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+3
+: [Graph Convolutional Networks (GCN)](https://ai.plainenglish.io/graph-convolutional-networks-gcn-baf337d5cb6b)
+  <!-- : [2.4](#), [2.5](#) -->
 
-Oct 8
-: **Lab**{: .label .label-purple }  [Converting a Tabular Dataset to a Temporal Graph Dataset](https://vid.puffyan.us/watch?v=AQU3akndun4)
+4
+: **Section**{: .label .label-purple }[Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
+  : [Distill](#)
 
-Oct 9
-: [Laplacian Matrix](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+5
+: **Section**{: .label .label-purple }[A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+  : [Distill](#)
+
+6
+: **Lab**{: .label .label-purple } [Ludwig Schubert](https://github.com/ludwigschubert)
+
+7
+:[Basics of Graph Neural Networks](https://www.graphneuralnets.com/courses/basics-of-gnns/)
+
+8
+: [Warming Up](#)
+  <!-- : [8.1](#), [8.2](#), [8.3](#), [8.4](#) -->
+: **HW 2 TBA**{: .label .label-red }

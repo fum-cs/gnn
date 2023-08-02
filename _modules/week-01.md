@@ -11,7 +11,7 @@ title: Introduction
   : [1](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html), [2](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
 
 3
-: [Intro to Graphs and Networkx](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjFs-29gL2AAxXYS_EDHQqSBQIQFnoECBQQAQ&url=https%3A%2F%2Fnetworkx.org%2Fdocumentation%2Fstable%2Ftutorial.html&usg=AOvVaw2p5-LpTUQD9LyriyQfPK8Q&opi=89978449)
+: [Intro to Networkx](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjFs-29gL2AAxXYS_EDHQqSBQIQFnoECBQQAQ&url=https%3A%2F%2Fnetworkx.org%2Fdocumentation%2Fstable%2Ftutorial.html&usg=AOvVaw2p5-LpTUQD9LyriyQfPK8Q&opi=89978449)
 
 4
 : [Intro to Pytorch]()
