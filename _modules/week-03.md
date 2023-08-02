@@ -23,12 +23,10 @@ title: Lectures
   : [Distill](#)
 
 6
-: **Lab**{: .label .label-purple } [Ludwig Schubert](https://github.com/ludwigschubert)
+: **Lab**{: .label .label-purple }[Ludwig Schubert](https://github.com/ludwigschubert)
 
 7
 :[Basics of Graph Neural Networks](https://www.graphneuralnets.com/courses/basics-of-gnns/)
 
 8
-: [Warming Up](#)
-  <!-- : [8.1](#), [8.2](#), [8.3](#), [8.4](#) -->
-: **HW 2 TBA**{: .label .label-red }
+: **HW, TBA**{: .label .label-red }

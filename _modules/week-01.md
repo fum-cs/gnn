@@ -16,7 +16,9 @@ title: Introduction
 4
 : [Intro to Pytorch]()
   : [Our previous workshop](https://github.com/mamintoosi-cs/pytorch-workshop)
-: **HW 1 TBA**{: .label .label-red }
 
 5
 : **Lab**{: .label .label-purple } [Make Personal Github Page](http://mamintoosi.ir/wp/%d8%a7%db%8c%d8%ac%d8%a7%d8%af-%d8%b5%d9%81%d8%ad%d9%87-%d8%b4%d8%ae%d8%b5%db%8c-%d8%af%d8%b1-%da%af%db%8c%d8%aa%d9%87%d8%a7%d8%a8/)
+
+6
+: **HW, TBA**{: .label .label-red }

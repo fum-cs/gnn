@@ -1,5 +1,5 @@
 ---
-title: Advanced Topics: Cluster-GCN
+title: Advanced Topics, Cluster-GCN
 ---
 
 1
@@ -17,6 +17,4 @@ title: Advanced Topics: Cluster-GCN
 : **Lab**{: .label .label-purple }  [Overlapping ClusterGCN](https://github.com/mamintoosi/Overlapping-Cluster-GCN)
 
 5
-: [Homework](#)
-  <!-- : [8.1](#), [8.2](#), [8.3](#), [8.4](#) -->
-: **HW TBA**{: .label .label-red }
+: **HW, TBA**{: .label .label-red }

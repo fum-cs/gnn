@@ -1,23 +1,16 @@
 ---
-title: Temporal Graphs
+title: Advanced Topics
 ---
 
-Oct 5
-: [PyTorch Geometric Temporal ](https://pytorch-geometric-temporal.readthedocs.io/en/latest/index.html)
-  : [3.1](#), [2.2](#), [2.3](#)
+1
+: [Graph Structure Learning](https://paperswithcode.com/task/graph-structure-learning)
 
-Oct 6
-: **Section**{: .label .label-purple }[Installation](#)
-  : [Solution](#)
+2
+: [Graph Condensation](https://paperswithcode.com/paper/graph-condensation-for-graph-neural-networks-1)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+3
+: [Adversarial Attack on Graphs](https://paperswithcode.com/paper/adversarial-attack-on-graph-structured-data)
 
-Oct 8
-: **Lab**{: .label .label-purple }  [Converting a Tabular Dataset to a Temporal Graph Dataset](https://vid.puffyan.us/watch?v=AQU3akndun4)
 
-Oct 9
-: [Laplacian Matrix](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+3
+: **HW, TBA**{: .label .label-red }

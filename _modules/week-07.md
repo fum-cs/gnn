@@ -18,6 +18,5 @@ title: IGNN, Continue...
 : **Chapter**{: .label .label-purple }[Graph Attention Networks](#)
   : [Cahpter 7](#)
 
-4: [Homework](#)
-  <!-- : [8.1](#), [8.2](#), [8.3](#), [8.4](#) -->
-: **HW 4 TBA**{: .label .label-red }
+4
+: **HW, TBA**{: .label .label-red }

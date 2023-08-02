@@ -23,6 +23,4 @@ title: Resources and the main book
 <!-- : **Lab**{: .label .label-purple } [Resizing Arrays](#) -->
 
 6
-: [Homework](#)
-  <!-- : [8.1](#), [8.2](#), [8.3](#), [8.4](#) -->
-: **HW 3 TBA**{: .label .label-red }
+: **HW, TBA**{: .label .label-red }

@@ -6,6 +6,11 @@ Dec 5
 : [Trinka is an online grammar checker and language correction AI tool for academic and technical writing](https://www.trinka.ai/)
   : [3.1](#), [2.2](#), [2.3](#)
 
+
+2 
+:[Wei Jin’s Homepage](http://cse.msu.edu/~jinwei2/)
+  : [Wei Jin’s Github](https://github.com/ChandlerBang)
+
 Oct 6
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)
