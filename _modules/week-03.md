@@ -26,7 +26,7 @@ title: Lectures
 : **Lab**{: .label .label-purple }[Ludwig Schubert](https://github.com/ludwigschubert)
 
 7
-:[Basics of Graph Neural Networks](https://www.graphneuralnets.com/courses/basics-of-gnns/)
+: [Basics of Graph Neural Networks](https://www.graphneuralnets.com/courses/basics-of-gnns/)
 
 8
 : **HW, TBA**{: .label .label-red }
