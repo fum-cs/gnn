@@ -20,5 +20,9 @@ title: Advanced Topics
 6
 : **Lab**{: .label .label-purple }  [DeepRobust: Adversarial library for attack and defense methods on images and graphs](https://github.com/DSE-MSU/DeepRobust)
 
-3
+7
+5
+: [Large Language Models on Graphs](https://arxiv.org/abs/2307.03393)
+
+8
 : **HW, TBA**{: .label .label-red }
