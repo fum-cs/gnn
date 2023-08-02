@@ -8,7 +8,7 @@ title: Misclaneous
 
 
 2 
-:[Wei Jin’s Homepage](http://cse.msu.edu/~jinwei2/)
+: [Wei Jin’s Homepage](http://cse.msu.edu/~jinwei2/)
   : [Wei Jin’s Github](https://github.com/ChandlerBang)
 
 <!-- 
