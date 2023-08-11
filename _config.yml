@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Graph Neural Networks
 tagline: Course website of GNN, CS, FUM
-description: GNN Course website, Fall 2024, Dr. M. Amintoosi
+description: GNN Course website, Spring 2024, Dr. M. Amintoosi
 author: M. Amintoosi
 baseurl: '/gnn' # the subpath of your site, e.g. /blog
 url: 'https://fum-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
