@@ -21,7 +21,7 @@ Ferdowsi University of Mashhad, TBA
 </div>
 
 {: .highlight }
-> Welcome to Deep Learning Course!
+> Welcome to the Course!
 
 
 <a name="lectures"></a>
